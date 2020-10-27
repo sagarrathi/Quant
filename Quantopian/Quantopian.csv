@@ -1,0 +1,57 @@
+,Lectures,Lecture Links,Video
+0,Introduction to Research,https://www.quantopian.com/lectures/introduction-to-research,https://www.youtube.com/watch?v=W-TlWzwM208
+1,Introduction to Python,https://www.quantopian.com/lectures/introduction-to-python,https://www.youtube.com/watch?v=bQUWLkKzpxE
+2,Introduction to NumPy,https://www.quantopian.com/lectures/introduction-to-numpy,https://www.youtube.com/watch?v=48RqKyD6fas
+3,Introduction to pandas,https://www.quantopian.com/lectures/introduction-to-pandas,https://www.youtube.com/watch?v=pAkEuv1lj08
+4,Plotting Data,https://www.quantopian.com/lectures/plotting-data,https://www.youtube.com/watch?v=nKq_wz3Qk8w
+5,Means,https://www.quantopian.com/lectures/means,https://www.youtube.com/watch?v=XYbsBsRtCjw
+6,Variance,https://www.quantopian.com/lectures/variance,https://www.youtube.com/watch?v=0AWY0odmjSs
+7,Statistical Moments,https://www.quantopian.com/lectures/statistical-moments,https://www.youtube.com/watch?v=mkVA_xUWDI0
+8,Linear Correlation Analysis,https://www.quantopian.com/lectures/linear-correlation-analysis,https://www.youtube.com/watch?v=GM76JkrVmRk?t=2m6s
+9,Instability of Estimates,https://www.quantopian.com/lectures/instability-of-estimates,https://www.youtube.com/watch?v=2pbu3_6lF40
+10,Random Variables,https://www.quantopian.com/lectures/random-variables,Exercise
+11,Linear Regression,https://www.quantopian.com/lectures/linear-regression,https://www.youtube.com/watch?v=Af0l3TQJ3h8?t=3m36s
+12,Maximum Likelihood Estimation,https://www.quantopian.com/lectures/maximum-likelihood-estimation,Exercise
+13,Regression Model Instability,https://www.quantopian.com/lectures/regression-model-instability,https://www.youtube.com/watch?v=HMQ34PfhzGE
+14,Multiple Linear Regression,https://www.quantopian.com/lectures/multiple-linear-regression,Exercise
+15,Violations of Regression Models,https://www.quantopian.com/lectures/violations-of-regression-models,https://www.youtube.com/watch?v=xM94MRs8U3M
+16,Model Misspecification,https://www.quantopian.com/lectures/model-misspecification,https://www.youtube.com/watch?v=t4peS8Ak-sY
+17,Residual Analysis,https://www.quantopian.com/lectures/residual-analysis,Exercise
+18,The Dangers of Overfitting,https://www.quantopian.com/lectures/the-dangers-of-overfitting,https://www.youtube.com/watch?v=KNCgvjyKrcw
+19,Hypothesis Testing,https://www.quantopian.com/lectures/hypothesis-testing,Exercise
+20,Confidence Intervals,https://www.quantopian.com/lectures/confidence-intervals,Exercise
+21,p-Hacking and Multiple Comparisons Bias,https://www.quantopian.com/lectures/p-hacking-and-multiple-comparisons-bias,https://www.youtube.com/watch?v=YiDfbYtgUPc
+22,Spearman Rank Correlation,https://www.quantopian.com/lectures/spearman-rank-correlation,https://www.youtube.com/watch?v=GM76JkrVmRk?t=25m51s
+23,Leverage,https://www.quantopian.com/lectures/leverage,Exercise
+24,Position Concentration Risk,https://www.quantopian.com/lectures/position-concentration-risk,https://www.youtube.com/watch?v=I1z7B2_FarQ
+25,Estimating Covariance Matrices,https://www.quantopian.com/lectures/estimating-covariance-matrices,Exercise
+26,"Introduction to Volume, Slippage, and Liquidity",https://www.quantopian.com/lectures/introduction-to-volume-slippage-and-liquidity,Exercise
+27,Market Impact Models,https://www.quantopian.com/lectures/market-impact-models,Exercise
+28,Universe Selection,https://www.quantopian.com/lectures/universe-selection,https://www.youtube.com/watch?v=oa5RhuHVbH0
+29,The Capital Asset Pricing Model and Arbitrage Pricing Theory,https://www.quantopian.com/lectures/the-capital-asset-pricing-model-and-arbitrage-pricing-theory,Exercise
+30,Beta Hedging,https://www.quantopian.com/lectures/beta-hedging,https://www.youtube.com/watch?v=Af0l3TQJ3h8?t=22m14s
+31,Fundamental Factor Models,https://www.quantopian.com/lectures/fundamental-factor-models,https://www.youtube.com/watch?v=P16zDtf0CE0
+32,Portfolio Analysis,https://www.quantopian.com/lectures/portfolio-analysis,Exercise
+33,Factor Risk Exposure,https://www.quantopian.com/lectures/factor-risk-exposure,https://www.youtube.com/watch?v=Ep8Y5JfQoRg
+34,Risk-Constrained Portfolio Optimization,https://www.quantopian.com/lectures/risk-constrained-portfolio-optimization,Exercise
+35,Principal Component Analysis,https://www.quantopian.com/lectures/principal-component-analysis,Exercise
+36,Long-Short Equity,https://www.quantopian.com/lectures/long-short-equity,Exercise
+37,Example: Long-Short Equity Algorithm,https://www.quantopian.com/lectures/example-long-short-equity-algorithm,Exercise
+38,Factor Analysis with Alphalens,https://www.quantopian.com/lectures/factor-analysis-with-alphalens,https://www.youtube.com/watch?v=v5IYcBxMDYE
+39,Why You Should Hedge Beta and Sector Exposures (Part I),https://www.quantopian.com/lectures/why-you-should-hedge-beta-and-sector-exposures-part-i,Exercise
+40,Why You Should Hedge Beta and Sector Exposures (Part II),https://www.quantopian.com/lectures/why-you-should-hedge-beta-and-sector-exposures-part-ii,Exercise
+41,VaR and CVaR,https://www.quantopian.com/lectures/var-and-cvar,Exercise
+42,"Integration, Cointegration, and Stationarity",https://www.quantopian.com/lectures/integration-cointegration-and-stationarity,https://www.youtube.com/watch?v=Pn_RiDbK82M
+43,Introduction to Pairs Trading,https://www.quantopian.com/lectures/introduction-to-pairs-trading,https://www.youtube.com/watch?v=JTucMRYMOyY
+44,Example: Basic Pairs Trading Algorithm,https://www.quantopian.com/lectures/example-basic-pairs-trading-algorithm,Exercise
+45,Example: Pairs Trading Algorithm,https://www.quantopian.com/lectures/example-pairs-trading-algorithm,Exercise
+46,Autocorrelation and AR Models,https://www.quantopian.com/lectures/autocorrelation-and-ar-models,https://www.youtube.com/watch?v=fnrSZvla51Y
+47,"ARCH, GARCH, and GMM",https://www.quantopian.com/lectures/arch-garch-and-gmm,Exercise
+48,Kalman Filters,https://www.quantopian.com/lectures/kalman-filters,https://www.youtube.com/watch?v=RxIdLu18SsE
+49,Example: Kalman Filter Pairs Trade,https://www.quantopian.com/lectures/example-kalman-filter-pairs-trade,Exercise
+50,Introduction to Futures,https://www.quantopian.com/lectures/introduction-to-futures,Exercise
+51,Futures Trading Considerations,https://www.quantopian.com/lectures/futures-trading-considerations,Exercise
+52,Mean Reversion on Futures,https://www.quantopian.com/lectures/mean-reversion-on-futures,Exercise
+53,Example: Pairs Trading on Futures,https://www.quantopian.com/lectures/example-pairs-trading-on-futures,Exercise
+54,Case Study: Traditional Value Factor,https://www.quantopian.com/lectures/case-study-traditional-value-factor,Exercise
+55,Case Study: Comparing ETFs,https://www.quantopian.com/lectures/case-study-comparing-etfs,Exercise

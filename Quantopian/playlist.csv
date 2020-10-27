@@ -1,0 +1,28 @@
+,Lectures,Lecture Links,Video
+0,Introduction to Research,https://www.quantopian.com/lectures/introduction-to-research,https://www.youtube.com/watch?v=W-TlWzwM208
+1,Introduction to Python,https://www.quantopian.com/lectures/introduction-to-python,https://www.youtube.com/watch?v=bQUWLkKzpxE
+2,Introduction to NumPy,https://www.quantopian.com/lectures/introduction-to-numpy,https://www.youtube.com/watch?v=48RqKyD6fas
+3,Introduction to pandas,https://www.quantopian.com/lectures/introduction-to-pandas,https://www.youtube.com/watch?v=pAkEuv1lj08
+4,Plotting Data,https://www.quantopian.com/lectures/plotting-data,https://www.youtube.com/watch?v=nKq_wz3Qk8w
+5,Means,https://www.quantopian.com/lectures/means,https://www.youtube.com/watch?v=XYbsBsRtCjw
+6,Variance,https://www.quantopian.com/lectures/variance,https://www.youtube.com/watch?v=0AWY0odmjSs
+7,Statistical Moments,https://www.quantopian.com/lectures/statistical-moments,https://www.youtube.com/watch?v=mkVA_xUWDI0
+8,Linear Correlation Analysis,https://www.quantopian.com/lectures/linear-correlation-analysis,https://www.youtube.com/watch?v=GM76JkrVmRk?t=2m6s
+9,Instability of Estimates,https://www.quantopian.com/lectures/instability-of-estimates,https://www.youtube.com/watch?v=2pbu3_6lF40
+11,Linear Regression,https://www.quantopian.com/lectures/linear-regression,https://www.youtube.com/watch?v=Af0l3TQJ3h8?t=3m36s
+13,Regression Model Instability,https://www.quantopian.com/lectures/regression-model-instability,https://www.youtube.com/watch?v=HMQ34PfhzGE
+15,Violations of Regression Models,https://www.quantopian.com/lectures/violations-of-regression-models,https://www.youtube.com/watch?v=xM94MRs8U3M
+16,Model Misspecification,https://www.quantopian.com/lectures/model-misspecification,https://www.youtube.com/watch?v=t4peS8Ak-sY
+18,The Dangers of Overfitting,https://www.quantopian.com/lectures/the-dangers-of-overfitting,https://www.youtube.com/watch?v=KNCgvjyKrcw
+21,p-Hacking and Multiple Comparisons Bias,https://www.quantopian.com/lectures/p-hacking-and-multiple-comparisons-bias,https://www.youtube.com/watch?v=YiDfbYtgUPc
+22,Spearman Rank Correlation,https://www.quantopian.com/lectures/spearman-rank-correlation,https://www.youtube.com/watch?v=GM76JkrVmRk?t=25m51s
+24,Position Concentration Risk,https://www.quantopian.com/lectures/position-concentration-risk,https://www.youtube.com/watch?v=I1z7B2_FarQ
+28,Universe Selection,https://www.quantopian.com/lectures/universe-selection,https://www.youtube.com/watch?v=oa5RhuHVbH0
+30,Beta Hedging,https://www.quantopian.com/lectures/beta-hedging,https://www.youtube.com/watch?v=Af0l3TQJ3h8?t=22m14s
+31,Fundamental Factor Models,https://www.quantopian.com/lectures/fundamental-factor-models,https://www.youtube.com/watch?v=P16zDtf0CE0
+33,Factor Risk Exposure,https://www.quantopian.com/lectures/factor-risk-exposure,https://www.youtube.com/watch?v=Ep8Y5JfQoRg
+38,Factor Analysis with Alphalens,https://www.quantopian.com/lectures/factor-analysis-with-alphalens,https://www.youtube.com/watch?v=v5IYcBxMDYE
+42,"Integration, Cointegration, and Stationarity",https://www.quantopian.com/lectures/integration-cointegration-and-stationarity,https://www.youtube.com/watch?v=Pn_RiDbK82M
+43,Introduction to Pairs Trading,https://www.quantopian.com/lectures/introduction-to-pairs-trading,https://www.youtube.com/watch?v=JTucMRYMOyY
+46,Autocorrelation and AR Models,https://www.quantopian.com/lectures/autocorrelation-and-ar-models,https://www.youtube.com/watch?v=fnrSZvla51Y
+48,Kalman Filters,https://www.quantopian.com/lectures/kalman-filters,https://www.youtube.com/watch?v=RxIdLu18SsE
