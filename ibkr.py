@@ -40,12 +40,12 @@ class St(bt.Strategy):
 
     print("Made: Stratedgy")
     
-def run(from_date, to_date):
+def run(stk_name,from_date, to_date):
     brain=bt.Cerebro(stdstats=False, live=False, preload=False)
-    ibstore = bt.stores.IBStore(host='127.0.0.1', port=7496, clientId=35)
+    ibstore = bt.stores.IBStore(host='127.0.0.1', port=7496, clientId=35,_debug=True)
     data = ibstore.getdata(
-        dataname='CADILAHC-STK-NSE-INR',
-        timeframe=bt.TimeFrame.Days,
+        dataname=str(stk_name)+'-STK-NSE-INR',
+        timeframe=bt.TimeFrame.Minutes,
         fromdate=from_date,
         todate=to_date,
         historical=True
@@ -66,7 +66,8 @@ def run(from_date, to_date):
 if __name__=='__main__':
     from_date=datetime.datetime(2020,8,1)
     to_date=datetime.datetime(2020,8,20)
-    run(from_date, to_date)
+    run('SPICEJET',from_date, to_date)
+    
     
     
     
